@@ -1,3 +1,0 @@
-document.write("maciej balicki<br>");
-alert("pierwsza strona");
-console.log("konsole");
